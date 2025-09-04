@@ -1,0 +1,4 @@
+# Python dependencies for AI Job Agent
+requests
+beautifulsoup4
+openai
